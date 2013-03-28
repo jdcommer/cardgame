@@ -1,0 +1,13 @@
+out/
+.gradle/
+*.iml
+atlassian-ide-plugin.xml
+*.ipr
+*.iws
+.idea/
+target/
+build/
+bin/
+.classpath
+.project
+.settings/
